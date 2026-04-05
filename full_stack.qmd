@@ -1,10 +1,32 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Full Stack"
+subtitle: "live projects and web builds"
 ---
 
-# Title 1 Header
-## Title 2 Header
+This section highlights a couple of the web projects I have built and shared publicly. They combine product thinking, applied AI, and end-to-end implementation in a way that feels practical and user-focused.
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+::: {.project-tile-grid}
+::: {.project-tile}
+<span class="project-tile-tag">Prototype AI App</span>
+
+## Advisor Chat
+
+Created a prototype AI chatbot that utilizes the Gemini embedding model alongside retrieval augmented generation to potentially provide accurate information to international students applying to BYUI.
+
+::: {.project-tile-actions}
+[Open Project](https://alcuinabraham.com/advisor-chat/){.project-tile-button target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+::: {.project-tile}
+<span class="project-tile-tag">Semester Project</span>
+
+## Accent Scoring
+
+Developed an accent detection scoring website through Microsoft Azure API to network with the founder of onlinejobs.ph, an outsourcing website home to 2M+ Filipino workers.
+
+::: {.project-tile-actions}
+[Open Project](https://alcuinabraham.com/Accent_Scoring/){.project-tile-button target="_blank" rel="noopener noreferrer"}
+:::
+:::
+:::

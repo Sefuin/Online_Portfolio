@@ -1,10 +1,18 @@
 ---
 title: "about me"
 subtitle: "my data science portfolio"
-# use quarto markdown to 
 ---
 
-# Title 1 Header
-## Title 2 Header
+Hi, I'm Alcuin Abraham, a Data Science major at Brigham Young University - Idaho with a strong interest in building practical systems that help teams work more efficiently and make better decisions.
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+I enjoy work that sits at the intersection of data, automation, and problem solving. Recent projects and roles have included building AI-assisted internal tools, improving product research workflows, and developing automated data pipelines for university relations. I am especially drawn to problems where good analysis and thoughtful systems design can remove friction and create lasting improvements.
+
+I tend to approach work with initiative, curiosity, and a willingness to learn quickly. Whether I am working on a technical project, improving an internal process, or helping a team get aligned, I care about building solutions that are scalable, reliable, and genuinely useful.
+
+## What you'll find here
+
+This portfolio is a place to share the projects, experiments, and skills I am developing across data science, storytelling, machine learning, and full stack work. It reflects both what I am learning and how I like to think through real problems.
+
+## A little more about me
+
+Beyond coursework and technical projects, I value teamwork, clear communication, and steady growth. My volunteer and professional experience has taught me a lot about leadership, training, and creating systems that support other people well.

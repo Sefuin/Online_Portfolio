@@ -1,89 +1,67 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alcuin Joseph Abraham
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+
+Data Science Major
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:abrahamalcuin@gmail.com">abrahamalcuin@gmail.com</a>
+| (986) 275-6730
 </div>
 
 
-## Currently
+## Summary
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Young and hungry, passionate about learning and contributing meaningful results within a team. Recognized for taking initiative, learning independently, and offering solutions instead of problems. Skilled at decomposing complex problems, analyzing system-level interactions, and designing solutions for scalability, safety, and maintainability.
 
 
-### Research interests
+## Experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Oct 2024 - Aug 2025`
+__Amazon Store Manager / Systems Streamlining & AI Integration__, SplashNColor
+
+- Consolidated two full-time roles into one part-time role through systems, tools, and process optimization, effectively cutting costs by 50% and increasing productivity by 165%.
+- Created and deployed an AI internal tool that increased weekly product launch efficiency from 10 products to 100.
+- Established three new product research streams, enhancing discovery methods and strengthening competitive positioning.
+- Analyzed insights to refine marketing strategy for products, aligning efforts with profitability outcomes.
+- Developed training materials and operational procedures to expedite onboarding process.
+
+`Jan 2026 - Current`
+__Systems Integration and Automation__, BYUI University Relations
+
+- Owned end-to-end design of scalable transactional email infrastructure; researched platforms, defined architecture, and deployed production-ready systems without requiring micromanagement.
+- Replacing manual Excel workflows with an automated SFTP ingestion pipeline in Python (`pandas`) for CRM-bound prospective student data.
+- Enforcing schema and engineering safe file handling, and data validation for reliable processing.
+- Created standard operation procedures, documented edge cases, and created training for future scaling and maintenance.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Expected in January 2029`
+__Brigham Young University - Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Data Science Major
 
 
+## Projects
 
-## Awards
+### BYUI International Services AI Chatbot
 
-`2012`
-President, *Royal Society*, London, UK
+Created a prototype AI chatbot that utilizes the Gemini embedding model alongside retrieval augmented generation to potentially provide accurate information to international students applying to BYUI.
 
-Associate, *French Academy of Science*, Paris, France
+### Onlinejobs.ph Accent Detection
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Developed an accent detection scoring website through Microsoft Azure API to network with the founder of onlinejobs.ph, an outsourcing website home to 2M+ Filipino workers.
 
 
-## Occupation
+## Volunteer Experience
 
-`1600`
-__Royal Mint__, London
+`07/01/22 - 08/01/24`
+__The Church of Jesus Christ of Latter-day Saints__
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+- Contributed to changing organizational culture through data-driven decisions.
+- Trained and motivated over 200 volunteers to achieve the organizational purpose.
+- Collaborated with a retired BCG (Boston Consulting Group) Partner.
+- Created and presented training materials and slide decks for organization wide conferences and meetings.

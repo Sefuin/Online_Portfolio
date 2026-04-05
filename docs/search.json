@@ -2,149 +2,92 @@
   {
     "objectID": "story_telling.html",
     "href": "story_telling.html",
+    "title": "Reports",
+    "section": "",
+    "text": "This section collects standalone analysis reports that I have written across statistics, data analysis, and applied coursework.\nThe reports in the sidebar open as full HTML pages and keep their original formatting. They cover topics including food habits, high school seniors, chi-squared testing, logistic regression, two-way ANOVA, a housing analysis, and weather patterns.",
+    "crumbs": [
+      "Reports"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#included-reports",
+    "href": "story_telling.html#included-reports",
+    "title": "Reports",
+    "section": "Included reports",
+    "text": "Included reports\n\nFood at College\nHigh School Seniors Analysis\nChi Squared Test\nInternship Logistic Regression\nData Science or Computer Science?\nStephanie’s Housing Request\nDid Rexburg run out of snow?",
+    "crumbs": [
+      "Reports"
+    ]
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Story Telling"
+      "Machine Learning"
     ]
   },
   {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Story Telling"
+      "Machine Learning"
     ]
   },
   {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Story Telling",
       "Project 2"
     ]
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about me",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Hi, I’m Alcuin Abraham, a Data Science major at Brigham Young University - Idaho with a strong interest in building practical systems that help teams work more efficiently and make better decisions.\nI enjoy work that sits at the intersection of data, automation, and problem solving. Recent projects and roles have included building AI-assisted internal tools, improving product research workflows, and developing automated data pipelines for university relations. I am especially drawn to problems where good analysis and thoughtful systems design can remove friction and create lasting improvements.\nI tend to approach work with initiative, curiosity, and a willingness to learn quickly. Whether I am working on a technical project, improving an internal process, or helping a team get aligned, I care about building solutions that are scalable, reliable, and genuinely useful."
   },
   {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "about me",
+    "section": "What you’ll find here",
+    "text": "What you’ll find here\nThis portfolio is a place to share the projects, experiments, and skills I am developing across data science, storytelling, machine learning, and full stack work. It reflects both what I am learning and how I like to think through real problems."
   },
   {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "objectID": "index.html#a-little-more-about-me",
+    "href": "index.html#a-little-more-about-me",
+    "title": "about me",
+    "section": "A little more about me",
+    "text": "A little more about me\nBeyond coursework and technical projects, I value teamwork, clear communication, and steady growth. My volunteer and professional experience has taught me a lot about leadership, training, and creating systems that support other people well."
   },
   {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
+    "objectID": "exploration.html",
+    "href": "exploration.html",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Full Stack"
+      "Data Exploration"
     ]
   },
   {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
+    "objectID": "exploration.html#title-2-header",
+    "href": "exploration.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "competition.html",
-    "href": "competition.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competitions",
-      "Competition"
-    ]
-  },
-  {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competitions",
-      "Competition"
+      "Data Exploration"
     ]
   },
   {
@@ -154,7 +97,6 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Cleansing",
       "Project 2"
     ]
   },
@@ -165,7 +107,6 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Exploration",
       "Project 3"
     ]
   },
@@ -176,7 +117,6 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Exploration",
       "Project 1"
     ]
   },
@@ -207,7 +147,6 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Exploration",
       "Project 2"
     ]
   },
@@ -218,7 +157,6 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Cleansing",
       "Project 1"
     ]
   },
@@ -229,106 +167,99 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Cleansing",
       "Project 3"
     ]
   },
   {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
-    "title": "about me",
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "Full Stack",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "This section highlights a couple of the web projects I have built and shared publicly. They combine product thinking, applied AI, and end-to-end implementation in a way that feels practical and user-focused.",
     "crumbs": [
-      "Data Exploration"
+      "Full Stack"
     ]
   },
   {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
+    "objectID": "full_stack.html#advisor-chat",
+    "href": "full_stack.html#advisor-chat",
+    "title": "Full Stack",
+    "section": "Advisor Chat",
+    "text": "Advisor Chat\nCreated a prototype AI chatbot that utilizes the Gemini embedding model alongside retrieval augmented generation to potentially provide accurate information to international students applying to BYUI.\n\nOpen Project",
     "crumbs": [
-      "Data Exploration"
+      "Full Stack"
     ]
   },
   {
-    "objectID": "Full_Stack/project2.html",
-    "href": "Full_Stack/project2.html",
+    "objectID": "full_stack.html#accent-scoring",
+    "href": "full_stack.html#accent-scoring",
+    "title": "Full Stack",
+    "section": "Accent Scoring",
+    "text": "Accent Scoring\nDeveloped an accent detection scoring website through Microsoft Azure API to network with the founder of onlinejobs.ph, an outsourcing website home to 2M+ Filipino workers.\n\nOpen Project",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Full Stack",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
       "Project 1"
     ]
   },
   {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Story Telling",
       "Project 3"
     ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Alcuin Joseph Abraham",
+    "section": "",
+    "text": "Data Science Major"
+  },
+  {
+    "objectID": "resume.html#summary",
+    "href": "resume.html#summary",
+    "title": "Alcuin Joseph Abraham",
+    "section": "Summary",
+    "text": "Summary\nYoung and hungry, passionate about learning and contributing meaningful results within a team. Recognized for taking initiative, learning independently, and offering solutions instead of problems. Skilled at decomposing complex problems, analyzing system-level interactions, and designing solutions for scalability, safety, and maintainability."
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Alcuin Joseph Abraham",
+    "section": "Experience",
+    "text": "Experience\nOct 2024 - Aug 2025 Amazon Store Manager / Systems Streamlining & AI Integration, SplashNColor\n\nConsolidated two full-time roles into one part-time role through systems, tools, and process optimization, effectively cutting costs by 50% and increasing productivity by 165%.\nCreated and deployed an AI internal tool that increased weekly product launch efficiency from 10 products to 100.\nEstablished three new product research streams, enhancing discovery methods and strengthening competitive positioning.\nAnalyzed insights to refine marketing strategy for products, aligning efforts with profitability outcomes.\nDeveloped training materials and operational procedures to expedite onboarding process.\n\nJan 2026 - Current Systems Integration and Automation, BYUI University Relations\n\nOwned end-to-end design of scalable transactional email infrastructure; researched platforms, defined architecture, and deployed production-ready systems without requiring micromanagement.\nReplacing manual Excel workflows with an automated SFTP ingestion pipeline in Python (pandas) for CRM-bound prospective student data.\nEnforcing schema and engineering safe file handling, and data validation for reliable processing.\nCreated standard operation procedures, documented edge cases, and created training for future scaling and maintenance."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Alcuin Joseph Abraham",
+    "section": "Education",
+    "text": "Education\nExpected in January 2029 Brigham Young University - Idaho\n\nData Science Major"
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Alcuin Joseph Abraham",
+    "section": "Projects",
+    "text": "Projects\n\nBYUI International Services AI Chatbot\nCreated a prototype AI chatbot that utilizes the Gemini embedding model alongside retrieval augmented generation to potentially provide accurate information to international students applying to BYUI.\n\n\nOnlinejobs.ph Accent Detection\nDeveloped an accent detection scoring website through Microsoft Azure API to network with the founder of onlinejobs.ph, an outsourcing website home to 2M+ Filipino workers."
+  },
+  {
+    "objectID": "resume.html#volunteer-experience",
+    "href": "resume.html#volunteer-experience",
+    "title": "Alcuin Joseph Abraham",
+    "section": "Volunteer Experience",
+    "text": "Volunteer Experience\n07/01/22 - 08/01/24 The Church of Jesus Christ of Latter-day Saints\n\nContributed to changing organizational culture through data-driven decisions.\nTrained and motivated over 200 volunteers to achieve the organizational purpose.\nCollaborated with a retired BCG (Boston Consulting Group) Partner.\nCreated and presented training materials and slide decks for organization wide conferences and meetings."
   }
 ]
